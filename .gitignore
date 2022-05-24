@@ -1,0 +1,15 @@
+# folder
+/.ipynb_checkpoints
+/data
+/img
+
+/01.Fundamental/.ipynb_checkpoints
+/02.Linear Network/.ipynb_checkpoints
+/03.Multilayer Perceptrons/.ipynb_checkpoints
+/04.Deep Learning Computation/.ipynb_checkpoints
+/05.CNN/.ipynb_checkpoints
+/06.Modern CNN/.ipynb_checkpoints
+/07.Copmuter Vision/.ipynb_checkpoints
+/08.RNN/.ipynb_checkpoints
+/09.Modern RNN/.ipynb_checkpoints
+/10.Attention Mechanisms/.ipynb_checkpoints
